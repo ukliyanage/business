@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Business</string>
+    <string name="t1">DEBITORS</string>
+    <string name="b1">Add</string>
+    <string name="d1">James</string>
+
+    <string name="dt1">150000.00</string>
+    <string name="dt2"></string>
+    <string name="dt3"></string>
+    <string name="dt4"></string>
+
+    <string name="t2">Add Debitor</string>
+    <string name="b2">SAVE</string>
+    <string name="b3">CANCEL</string>
+
+    <string name="ad1">Name</string>
+    <string name="ad2">Amount</string>
+    <string name="ad3">Paid</string>
+    <string name="ad4">Due</string>
+
+
+    <string name="t3">James</string>
+    <string name="dp1">Amount</string>
+    <string name="dp2">Paid</string>
+    <string name="dp3">Due</string>
+    <string name="dp4">Date</string>
+
+    <string name="dbt1">200000.00</string>
+    <string name="dbt2">50000.00</string>
+    <string name="dbt3">150000.00</string>
+    <string name="dbt4">04/03/2019</string>
+
+    <string name="date1">Date</string>
+    <string name="b4">OK</string>
+    <string name="calender">CALENDER</string>
+
+</resources>
